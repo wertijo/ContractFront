@@ -78,7 +78,7 @@ function App() {
       <div className="w-full flex justify-center items-center flex-col">
         <p style={{marginBottom: 20}}>Made with 💖 by Wertijo</p>
         <a href="https://github.com/wertijo">
-          <img src='src\img\Github.png' style={{ width: 50, height: 50 }}></img>
+          <img src='src/img/Github.png' style={{ width: 50, height: 50 }}></img>
         </a>
       </div>
     </main>
